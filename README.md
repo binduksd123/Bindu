@@ -1,3 +1,3 @@
 # Bindu
-this is demo repository 
-JNNC Shivamogga
+this is demo repository <br>
+JNNCE Shivamogga
